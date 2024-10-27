@@ -1,0 +1,187 @@
+Index,Artist,title,year,data,Absolute Chords,section,formtype,looptype,MBID,source
+314,Katy Perry,Hot 'n' cold,2008,|6- . .4 ||1 . . 5||,|Em . . CM||GM . . DM||,$bridge ,,Axis-A,3ab64b07-4760-3b29-83e1-9f63cd39963f," Park: MusicID Top 200 (2000-2020), Richards"
+263,Katy Perry,E.T.,2010,|4 |5 | 6- | 1|,DbM-EbM-|Fm-AbM,"$Ch, $PostCh",,Plateau: ascending passing loop,48b78802-5dce-4b68-a6db-51c04d2d8a8e, Park: MusicID Top 200 (2000-2020)
+263,Katy Perry,E.T.,2010,|2- |4 |6-| 5|,Bbm6|Dbm|Fm|EbM..Fm|Bbm6|Dbm|Fm|EbM|‚Ä¶CM|,$bridge,,Get Lucky-d,48b78802-5dce-4b68-a6db-51c04d2d8a8e, Park: MusicID Top 200 (2000-2020)
+160,Daft Punk,Get Lucky,2013,|2- |4 |6-| 5|,|Bm |DM |F#m|EM|,"$In, $Vr, $PCh, $Ch, $PostCh",,Get Lucky-d,b11bf816-1844-47e5-9075-9239b7609c6a,"Peres, Spicer, Jinny Park: daft punk corpus"
+49,Ed Sheeran,Perfect,2017,|6- |4| 1| 5|,Fm--DbM--|AbM--EbM--|,$Ch,,Axis-A,f673b3e1-f46d-44e7-9767-43d7a88aa886, Park: MusicID Top 200 (2000-2020)
+49,Ed Sheeran,Perfect,2017,|1 |6- |4 |5|,AbM Fm|DbM EbM|,"$In, $Vr1, $instr",,Doo-wop,f673b3e1-f46d-44e7-9767-43d7a88aa886, Park: MusicID Top 200 (2000-2020)
+49,Ed Sheeran,Perfect,2017,|4||5||,DbM||EbM||,$PostCh,,Plateau Shuttle,f673b3e1-f46d-44e7-9767-43d7a88aa886, Park: MusicID Top 200 (2000-2020)
+78,Nicky Jam and Enrique Iglesias ,El perdón (Forgiveness),2015,|6- 4 |1 5|,|Fm DbM |AbM EbM|,"$In, $Vr, $PCh, $Ch, $bridge, $outro",,Axis-A,40f920e3-b596-48f9-a092-4e5b74ef6a6a,Richards
+167,Demi Lovato ,Heart Attack ,2013,|4|. 1 . . |5|. 6- . .|,DbM|. AbM . .|EbM|. Fm . .|,"$Vr, $PCh, $Ch_a",,Axis-F,a770a566-ad20-492b-b6e7-2444c3cdd563,Richards
+167,Demi Lovato ,Heart Attack ,2013,|6- | .  4 . . | 1 | . 5 . . |,|Fm|. DbM . . |AbM| . EbM . . |,$DCh_a,,Axis-A,a770a566-ad20-492b-b6e7-2444c3cdd563,Richards
+167,Demi Lovato ,Heart Attack ,2013,|6- | .  4 . . | 1 | 5 |,|Fm| . DbM . . | AbM | EbM|,$DCh_b,,Axis-A,a770a566-ad20-492b-b6e7-2444c3cdd563,Richards
+167,Demi Lovato ,Heart Attack ,2013,|6- || 4 || 1 || 5 ||,|Fm||DbM||AbM||EbM||Fm||DbM||AbM||CM|||,$bridge_a,,Axis-A,a770a566-ad20-492b-b6e7-2444c3cdd563,Richards
+167,Demi Lovato ,Heart Attack ,2013,|4|. 1 . .|5||,DbM|. AbM . .|EbM||,$Ch_b,,Closed Double Plagal,a770a566-ad20-492b-b6e7-2444c3cdd563,Richards
+150,Ellie Goulding,Burn,2013,|6-|4|1|5|,,$Vr- $PCh- $Ch- $bridge,,Axis-A,f55bc729-1cf1-45dc-a7e5-e3a8d69e5092,"Peres, Richards"
+50,The Weeknd,Secrets,2017,|4 ||5||,|FM||GM||,$In $Vr $PCh $Ch,,Plateau Shuttle,bd28d3a9-b287-4b9c-9d08-118da13376f3,Duinker
+538,Selena Gomez,Same Old Love,2015,|6- . . 4 |2- . . 5 |,|Cm . . AbM|Fm . . BbM|,$Ch_a,,Aeolian-Dorian Four Chords,e179bced-e75d-44f0-8438-899469e0ebe2,Peres
+538,Selena Gomez,Same Old Love,2015,|6- 4 |2- 5 |,|Cm AbM|Fm BbM|,$Ch_b,,Aeolian-Dorian Four Chords,e179bced-e75d-44f0-8438-899469e0ebe2,Peres
+328,Miley Cyrus,See You Again,2008,|2-|6-|,|Dm|Am|,$c,,Dorian-Aeolian shuffle,0b538415-f589-320e-8387-932f0dd7999f,Peres
+328,Miley Cyrus,See You Again,2008,|4 1 | 5|,|FM CM | GM|,$d,,Closed Double Plagal,0b538415-f589-320e-8387-932f0dd7999f,Peres
+509,The Offspring,Self Esteem,1994,|6- . . 4 |1 . . 5 |,|Am . . FM |CM . . GM |,$a,,Axis-A,01c17bf0-56ba-30bd-acdf-2eba966927e2,Richards
+509,The Offspring,Self Esteem,1994,|4| . . 1 5 |,|FM| . . CM GM |,$turn,,Closed Double Plagal,01c17bf0-56ba-30bd-acdf-2eba966927e2,Richards
+281,Britney Spears,3,2009,|4 |5 6- . .|,|DbM |EbM Fm . .|,$PCh $bridge,,Plateau: open passing loop,5444e95d-8c45-4325-90a4-c088f03782b6,Peres
+130,David Guetta featuring Nicki Minaj,Hey Mama,2014,|6- 4| 2- 5|,|Em CM|Am DM|,"$Ch, $PCh",,Aeolian-Dorian Four Chords,5b82e36f-7a1c-48bd-b620-795d0cffd7bb,Peres
+385,Ciara & Missy 'Misdemeanor' Elliot,1-2 Step,2004,|6-||2-||,Gm||Cm||,$a,,Aeolian-Dorian shuffle,77bdae1d-1d93-31e6-8f24-0d57d827a52d, Park: MusicID Top 200 (2000-2020)
+282,Green Day ,21 Guns ,2009,|6- 4|1 5|,|Dm BbM | FM CM|,$a,,Axis-A,1b4a5af4-cae4-3ef0-ad75-2d477312648a,Richards
+282,Green Day ,21 Guns ,2009,|4|5|,|BbM|CM|,$b,,Plateau Shuttle,1b4a5af4-cae4-3ef0-ad75-2d477312648a,Richards
+282,Green Day ,21 Guns ,2009,|4| . . . 5|,|BbM| . . . CM|,$c,,Plateau Shuttle,1b4a5af4-cae4-3ef0-ad75-2d477312648a,Richards
+282,Green Day ,21 Guns ,2009,|4 1 |5|,|BbM FM| CM | ,"$e, $PostCh",,Closed Double Plagal,1b4a5af4-cae4-3ef0-ad75-2d477312648a,Richards
+54,Bon Iver,"33 ""GOD""",2016,|4||||6-||||,|AM||||C#m||||,"$a, $interlude",,Major-minor Plateau,08e1dc44-da43-487f-8f84-3d5d8b7fee41,Duinker
+190,Train ,50 Ways to Say Goodbye,2012,|4 1 5||,|CM GM DM||,$ending_cadence,,Closed Double Plagal,f29ab7ab-9d2f-4b4f-ab96-c05e959e6701,Richards
+416,Celine Dion ,A New Day Has Come ,2002,|4| 1| 5| 6-|,|CM|GM|DM|Em|,$g,,Axis-F,ddb504fd-fa94-45d7-813a-674c6399bc66,Richards
+416,Celine Dion ,A New Day Has Come ,2002,|4| 1| 5||,|CM|GM|DM||,$a,,Closed Double Plagal,ddb504fd-fa94-45d7-813a-674c6399bc66,Richards
+416,Celine Dion ,A New Day Has Come ,2002,| 6- | 4 | 1 | 5 |,|Em|CM|GM|DM|,$b,,Axis-A,ddb504fd-fa94-45d7-813a-674c6399bc66,Richards
+111,Coldplay ,A Sky Full of Stars ,2014,|4|5|6-| . 1 . . |,|CM|DM|Em| . GM . .|,$d,,Plateau: ascending passing loop,f42ca644-0fa7-4ec5-9089-542c9a1b8be3,Richards
+417,Vanessa Carlton,A Thousand Miles,2002,|4 5|,|EM F#M|,$d,,Plateau Shuttle,3ee4663e-addb-38c8-8806-a7598605df85, Park: MusicID Top 200 (2000-2020)
+283,Orianthi ,According to You ,2009,|1| 5| 6-| 4|,,$a,,Axis-C,b62b2506-0632-4601-8b72-1738f5c8b90a,Richards
+283,Orianthi ,According to You ,2009,|4|5|,|BbM|CM|,$c,,Plateau Shuttle,b62b2506-0632-4601-8b72-1738f5c8b90a,Richards
+283,Orianthi ,According to You ,2009,|6-|4|1|3-|,|Dm|BbM|FM|Am|,$e,,Axis-A-sub3-,b62b2506-0632-4601-8b72-1738f5c8b90a,Richards
+283,Orianthi ,According to You ,2009,|6-|4|||,|Dm|BbM|||,$turn,,minor-major Plateau,b62b2506-0632-4601-8b72-1738f5c8b90a,Richards
+112,John Legend ,All of Me ,2014,|6-| 4| 1| 5|,|Fm|DbM|AbM|EbM|,"$In, $Vr, $DCh",,Axis-A,45c67308-c345-431b-b475-f5cd0512d03f,"Richards, Park: MusicID Top 200 (2000-2020)"
+112,John Legend ,All of Me ,2014,|1|| 6-|| 4|| 5||,|AbM||Fm||DbM||EbM||,$Ch,,Doo-wop,45c67308-c345-431b-b475-f5cd0512d03f,"Richards, Park: MusicID Top 200 (2000-2020)"
+43,Krewella,Be There,2017,|6-| 4| 1| . 5|,|Em|CM|GM|. DM|,"$Vr, $PCh",,Axis-A,ea67aac0-fb22-4a44-abab-04f98d7d2b49,"Barna, 2020"
+43,Krewella,Be There,2017,|6- . . 4|| 1 . . 5||,|Em . . CM||GM . .  DM||,$a,,Axis-A,ea67aac0-fb22-4a44-abab-04f98d7d2b49,"Barna, 2020"
+412,Brooks and Dunn ,Red Dirt Road ,2003,| 6- . . 4 || 1 . . 5 ||,|Am . . FM|| CM . . GM || ,$a,,Axis-A,54f5cc96-7cba-3bad-811f-689ad1f1e35c,Richards
+253,Lady Gaga ,Alejandro ,2010,|4|1|5|6-|,|GM|DM|AM|Bm|,$b,,Axis-F,ac8daee0-b538-428d-bf39-63f519ee7536,Richards
+253,Lady Gaga ,Alejandro ,2010,|4|1|5||,|GM|DM|AM||,$bCad,,Closed Double Plagal,ac8daee0-b538-428d-bf39-63f519ee7536,Richards
+418,Michelle Branch ,All You Wanted ,2002,| 6- | 4 | 1 | 5 |,|Fm DbM|AbM EbM|,$b,,Axis-A,9afcd549-fe70-41d5-a928-46d42b0a8ea0,Richards
+418,Michelle Branch ,All You Wanted ,2002,|4||5||,Db||EbM||,$c,,Plateau Shuttle,9afcd549-fe70-41d5-a928-46d42b0a8ea0,Richards
+284,Kelly Clarkson ,Already Gone ,2009,|1 || 5 || 6- || 4 ||,|AM||EM||F#m||DM||,$b,,Axis-C,3e4a5070-273f-3fa4-92d5-7720e75a7c5d,Richards
+114,5 Seconds of Summer,Amnesia ,2014,| 1 | 5 | 6- | 4 |,|DM|AM|Bm|GM|,$b,,Axis-C,e2e4dfea-727b-4d17-8ab9-de98bcb82c1d,Richards
+114,5 Seconds of Summer,Amnesia ,2014,|5| 6-| 4| 1|,|AM|Bm|GM|DM|,$bridge,,Axis-G,e2e4dfea-727b-4d17-8ab9-de98bcb82c1d,Richards
+336,Timbaland feat. OneRepublic ,Apologize ,2007,|6-|4|1|5|,|Cm|AbM|EbM|BbM|,$a,,Axis-A,8583154f-e5a5-4247-879e-52937d2d3238,"Park: MusicID Top 200 (2000-2020), Richards"
+461,BBMak ,Back Here ,2000,|4|1|5|6-|,|DbM |AbM|EbM |Fm|,$b,,Axis-F,8ead64ce-563c-4ef8-aa0d-d3e4e2253a9a,Richards
+222,Taylor Swift ,Back to December ,2011,|6-|4|1|5|,|Bm|GM|DM|AM|,$d,,Axis-A,228cd62c-2a8f-3aa9-b4d4-6d4ee76f5daf,Richards
+222,Taylor Swift ,Back to December ,2011,|6-||4||1||5||,|Bm||GM||DM||AM||,$d_cad,,Axis-A,228cd62c-2a8f-3aa9-b4d4-6d4ee76f5daf,Richards
+73,Taylor Swift feat. Kendrick Lamar ,Bad Blood ,2015,|4 . . 1||5 . . 6-||,|CM . . GM||DM . . Em||,"$a, $hook_2",,Axis-F,c23570a3-467c-4ee8-80ff-0a04b339e844,Richards
+73,Taylor Swift feat. Kendrick Lamar ,Bad Blood ,2015,|4 . . 1||5||,|CM . . GM||DM||,$aCad,,Closed Double Plagal,c23570a3-467c-4ee8-80ff-0a04b339e844,Richards
+115,Enrique Iglesias feat. Descemer Bueno and Gente de Zona ,Bailando ,2014,|6-||4||1||5||,|Em||CM||GM||DM||,$a,,Axis-A,47d2f937-92c6-4039-944e-720c41baf3e4,Richards
+115,Enrique Iglesias feat. Descemer Bueno and Gente de Zona ,Bailando ,2014,|2-||4||6-||5||,|Am||CM||Em||DM||,$b,,Get Lucky-d,47d2f937-92c6-4039-944e-720c41baf3e4,Richards
+117,Lady Antebellum ,Bartender ,2014,|4||5||,|GM||AM||,$a_cad1,,Plateau Shuttle,4983ed7d-c03b-407a-9971-9b09618f50e5,Richards
+117,Lady Antebellum ,Bartender ,2014,|4||6-||5||2-||,|GM||BM||AM||Em|||,$b_turnaround2,,Get Lucky-F,4983ed7d-c03b-407a-9971-9b09618f50e5,Richards
+286,Jordin Sparks ,Battlefield ,2009,|4|1|5||,|CM|GM|DM||,$d_turnaround,,Closed Double Plagal,1ca64a3d-7d60-4d2a-86d1-5ce0928cff5e,Richards
+439,3 Doors Down,Be Like That ,2001,|1| 5| 6-| 4|,|GM|DM|Em|CM|,$a,,Axis-C,9acbe115-cdf5-4cf8-968c-27ef118c631d,Richards
+439,3 Doors Down,Be Like That ,2001,|6-|4|,|Em|CM|,$c,,minor-major Plateau,9acbe115-cdf5-4cf8-968c-27ef118c631d,Richards
+287,Akon feat. Colby O'Donis and Kardinal Offishall ,Beautiful ,2009,|6- . . 4||1 . . 5||,|Cm . . AbM||EbM . . BbM||,$a,,Axis-A,2a6bca35-6789-4121-99d1-638f683c28b8,Richards
+192,Justin Bieber featuring Nicki Minaj,Beauty and a Beat,2012,|4 | 2-| 6-| 5|,|FM| Dm| Am| GM|,$a,,Lydian-Aeolian Four Chords,63b9a815-fab0-4aaf-80ee-eb92c5bdd179,Peres
+192,Justin Bieber featuring Nicki Minaj,Beauty and a Beat,2012,|4|5|6-|1|,|FM| GM| Am| CM |,$b,,Plateau: ascending passing loop,63b9a815-fab0-4aaf-80ee-eb92c5bdd179,Peres
+367,Kelly Clarkson,Behind These Hazel Eyes ,2005,|6- . . 4||1 . . 5||,|F#m . . DM||AM . . EM||,$a,,Axis-A,b374d34f-6b97-33a1-8895-079e0eceb235,Richards
+367,Kelly Clarkson,Behind These Hazel Eyes ,2005,| 6- | 4 | 1 | 5 |,|F#m|DM|AM|EM|,$aa,,Axis-A,b374d34f-6b97-33a1-8895-079e0eceb235,Richards
+337,Fergie ,Big Girls Don't Cry ,2007,|4||1||5||||,|CM||GM||DM|||||,$b,,Closed Double Plagal,ecb89a04-eb82-316f-bf18-5b0204af2869, Park: MusicID Top 200 (2000-2020)
+337,Fergie ,Big Girls Don't Cry ,2007,|4||1||5||6-||,|CM||GM||DM||Em||,$bb,,Axis-F,ecb89a04-eb82-316f-bf18-5b0204af2869, Park: MusicID Top 200 (2000-2020)
+491,Merridith Brooks ,Bitch ,1997,|1||5|6-||4||,|AM||EM||F#m||DM||,"$bb, $fadeout",,Axis-C,bd8c67c9-68e0-3b16-a2b1-3d10f58aee37,Richards
+194,Kendrick Lamar,"Bitch, Don't Kill My Vibe",2012,|6- . . 4||||,|Fm . . DbM||||,"$a, $hook",,minor-major Plateau,45ac3df1-50c7-45ac-a78b-6d22d2c37080,"Richards, Peres"
+118,Taylor Swift,Blank Space,2014,|1|| 6-|| 4|| 5||,|FM|| Dm|| BbM|| CM||,$a,,Doo-wop,05980852-95f4-4ea2-806a-abf1666951b8,Peres
+338,Leona Lewis,Bleeding Love,2007,|1|| 6-|| 4 || 5||,|FM|| Dm|| BbM || CM||,"$a, $In, $PCh, $Ch, $link",,Doo-wop,cbba237c-4bd9-3707-9330-002a888dbbef, Park: MusicID Top 200 (2000-2020)
+338,Leona Lewis,Bleeding Love,2007,|6-||4||1||5||,|Dm||BbM||FM||CM||,"$b, $bridge, $PCh_2",,Axis-A,cbba237c-4bd9-3707-9330-002a888dbbef, Park: MusicID Top 200 (2000-2020)
+44,Loud Luxury ft. Brando,Body,2017,|4||||6-||1||,|DbM||||Fm||AbM||,"$a, $fadein, $PCh_3",,Plateau: ascending passing loop,8754c509-cbe6-44ae-a82a-589db3a42ac7,Duinker
+368,Green Day ,Boulevard of Broken Dreams ,2005,|4|1|5|6-|,|DbM|AbM|EbM|Fm|,$b,,Axis-F,150818a8-0e8b-341b-b457-e25e620f82db,"Richards, Park: MusicID Top 200 (2000-2020)"
+255,Taio Cruz feat. Ludacris ,Break Your Heart ,2010,|6- || 4|| 1|| 3-||,|Cm || AbM|| EbM|| Gm||,$b,,Axis-A-sub3-,4538dceb-18ba-4da8-be4c-f8a300874856,Richards
+387,Kelly Clarkson ,Breakaway ,2004,| 1 | 5 | 6- | 4 |,| CM | GM |Am | FM|,$b,,Axis-C,2701fa8d-033c-31d5-a65a-4641b1a20455,"Richards, Park: MusicID Top 200 (2000-2020)"
+256,The Script ,Breakeven ,2010,|4 . .  1 || 5 . .  6- ||,|EbM . .  BbM || FM . .  Gm ||,$a,,Axis-F,1d433414-d512-4370-bdd6-c58b1e3cc84f,Richards
+477,Faith Hill,Breathe,1999,|2- ||5||,| Am || DM||,$turnaround,,Dorian Shuttle,5e406497-3b26-4c2d-8bff-d5bd5d3aeae6, Park: MusicID Top 200 (2000-2020)
+403,Evanescence & Paul McCoy,Bring Me To Life,2003,|6- |||| 4 |||| ,|Em|||| CM||||,"$a, $fadeout",,minor-major Plateau,2722996e-ca58-368a-b5e7-0ca622256ea3, Park: MusicID Top 200 (2000-2020)
+403,Evanescence & Paul McCoy,Bring Me To Life,2003,|4|| 5|| 6-||||,|CM|| DM|| Em||||,$c,,Plateau: open passing loop,2722996e-ca58-368a-b5e7-0ca622256ea3, Park: MusicID Top 200 (2000-2020)
+492,Sarah McLachlan,Building a Mystery,1997,| 6- | 4 | 1 | 5 |,|Bm | GM | DM | AM|,"$a, $link",,Axis-A,4ac49dd4-1c76-398f-bea7-906a37180b7c,"Richards, Nobile"
+120,Jason Aldean ,Burnin' It Down ,2014,| 6- | 4 | 1 | 5 |,|Em|CM|GM|DM,"$a, $PCh, $DCh, $Vr_2",,Axis-A,a5b22b59-bc1b-4f83-9e13-847c0e62c180,Richards
+45,Flo Rida and 99 Percent,Cake,2017,|4 . . 1|| 5 . .  6- ||,|GM . . DM|| AM . .  Bm ||,$a,,Axis-F,8a66bf18-d30f-41bd-b313-8ee7223a889a,"Adams 2019, Barna 2020"
+370,Gavin DeGraw ,Chariot ,2005,| 6- | 4 | 1 | 5 |,|Em|CM|GM|DM|,$a,,Axis-A,fb366a75-1e7f-32b5-99bc-95c7aca3ca84,Richards
+58,Sia feat. Sean Paul ,Cheap Thrills ,2016,| 6- | 4 | 1 | 5 |,|F#m|DM|AM|EM|,$a,,Axis-A,7b77da28-cf99-40c9-94a3-16e16363239e,"Richards, Park: MusicID Top 200 (2000-2020)"
+223,M83,Claudia Lewis,2011,|4||||5||||,|FM||||GM||||,$a,,Plateau Shuttle,7c1f3ff0-47ca-47f2-8315-650dd2a40291,Duinker
+59,The Chainsmokers ft. Halsey,Closer,2016,|4 | . 5 . .  |6- | .  5 . . |,|DM | . EM . . |F#m | .  EM . . |,$a,,Plateau: circular passing loop,84bfb2cc-ba10-44e2-9ddf-59230c087ec8,"Duinker, Park: MusicID Top 200 (2000-2020)"
+371,Howie Day ,Collide ,2005,|1 || 5 || 6- || 4 ||,|BM || F#M|| G#m || EM ||,"$a, $link",,Axis-C,852e8a3b-83f7-366c-a9b9-e2dfe56f936d,Richards
+198,Kenny Chesney ,Come Over ,2012,| 6- || 4 || 1|| 5 ||,| Bm || GM || DM|| AM ||,"$a, $Ch_a",,Axis-A,17c97827-b4ce-4c92-8c7e-a6291c598472,Richards
+419,Avril Lavigne,Complicated,2002,|6-| 4 |1| 5|,|Dm| BbM |FM| CM|,$a,,Axis-A,de630691-2fc7-34f5-b4b1-e6dd5a71fe99," Park: MusicID Top 200 (2000-2020), Richards, De Clercq and Margulis"
+419,Avril Lavigne,Complicated,2002,|1|| 6-|| 4||5||,|FM|| Dm|| BbM||CM||,"$b, $link, $Vr_b",,Doo-wop,de630691-2fc7-34f5-b4b1-e6dd5a71fe99," Park: MusicID Top 200 (2000-2020), Richards, De Clercq and Margulis"
+152,Daft Punk,Contact,2013,|4 || 5 || ,|GM || AM || ,$a,,Plateau Shuttle,365f55b7-74c5-4cbd-bad0-3c7e246a60bf,Jinny Park: daft punk corpus
+152,Daft Punk,Contact,2013,|6-|4|1|5|,|Bm | GM | DM | AM |,$c,,Axis-A,365f55b7-74c5-4cbd-bad0-3c7e246a60bf,Jinny Park: daft punk corpus
+76,Demi Lovato,Cool for the Summer,2015,|4 | 2- | 6- | .  5 |,|AbM | Fm | Cm | .  BbM |,$a,,Lydian-Aeolian Four Chords,b6da88c2-f977-4c71-89a3-c8a84035d81c,Peres
+123,Echosmith ,Cool Kids ,2014,| 6- | 4 | 1 | 5 |,|Fm|DbM|AbM|EbM|,$a,,Axis-A,3813cffb-067f-4627-9ef9-8eb0716c9bef,Richards
+123,Echosmith ,Cool Kids ,2014,| 6- | 4 | 1 | . 5 |,|Fm|DbM|AbM| . EbM|,$aa,,Axis-A,3813cffb-067f-4627-9ef9-8eb0716c9bef,Richards
+464,Savage Garden ,Crash and Burn ,2000,| 1 || 5 || 6- || 4 ||,|EM||BM||C#m||AM||,"$a, $link",,Axis-C,6ab1ff1c-df5c-410d-a804-ba6388dbb8c6,Richards
+224,Eli Young Band ,Crazy Girl ,2011,| 6- | 4 | 1 | 5 |,|C#m|AM|EM|BM|,$a,,Axis-A,ec4702f3-093b-451b-8ebf-4d8095aca50d,Richards
+224,Eli Young Band ,Crazy Girl ,2011,| 6- | 4 | 1 | 3-|,|C#m|AM|EM|G#m|,$a_sub,,Axis-A-sub3-,ec4702f3-093b-451b-8ebf-4d8095aca50d,Richards
+224,Eli Young Band ,Crazy Girl ,2011,|4 1 |5|,|AM EM|BM|,$b,,Closed Double Plagal,ec4702f3-093b-451b-8ebf-4d8095aca50d,Richards
+224,Eli Young Band ,Crazy Girl ,2011,|2-|5|,|F#m|BM|,$b_cad,,Dorian Shuttle,ec4702f3-093b-451b-8ebf-4d8095aca50d,Richards
+224,Eli Young Band ,Crazy Girl ,2011,|4||5||,|AM||BM||,$c,,Plateau Shuttle,ec4702f3-093b-451b-8ebf-4d8095aca50d,Richards
+8,Sam Smith & Normami,Dancing With a Stranger,2019,|4| . 5 |6-|1|,|DbM| . EbM |Fm|AbM|,"$a, $In, $PostCh",,Plateau: ascending passing loop,deef617e-cbf0-4bd0-a308-8cba969d3054,"Duinker, Park: MusicID Top 200 (2000-2020)"
+155,Maroon 5,Daylight ,2013,|5|6-|4|1|,|AM|Bm|GM|DM|,$c,,Axis-G,72d4ddea-ed19-486d-945f-a19a49e62550,Richards
+156,Imagine Dragons ,Demons ,2013,| 1 | 5 | 6- | 4 |,|EM|BM|C#m|AM|,$a,,Axis-C,42462391-3cdb-4af6-8a6c-386021ea6d6c,Richards
+46,Luis Fonsi & Daddy Yankee,Despacito,2017,| 6- || 4 || 1 || 5 ||,|Bm||GM||DM||AM||,"$a, $In",,Axis-A,a9b23c53-856d-4e4f-bf43-18fd8e12747f, Park: MusicID Top 200 (2000-2020)
+351,The All-American Rejects ,Dirty Little Secret ,2006,| 1 | 5 | 6- | 4 |,|BbM|FM|Gm|EbM|,$b,,Axis-C,448bd3a2-9224-4597-aa20-0eb3c6e05df1,Richards
+421,Red Hot Chili Peppers ,Don't Forget Me,2002,| 6- | 4 | 1 | 5 |,|Am|FM|CM|GM|,$a,,Axis-A,190fb0bd-ea7b-3ac5-8b01-82cddc21f73a,Richards
+421,Red Hot Chili Peppers ,Don't Forget Me,2002,| 6- | 4 |,|Am|FM|,$ending,,minor-major Plateau,190fb0bd-ea7b-3ac5-8b01-82cddc21f73a,Richards
+373,The Pussycat Dolls,Don't Cha,2005,|2-||||6-||||,|Em||||Bm||||,"$a, $Vr, $Ch",,Dorian-Aeolian shuffle,285e7afa-e47f-31d8-bfa4-e8c1e8d3e879, Park: MusicID Top 200 (2000-2020)
+61,The Chainsmokers feat. Daya ,Don't Let Me Down ,2016,|4| 1| 5| 6-|,|EM| BM| F#M| G#m|,$a,,Axis-F,fd881e93-c199-4c86-81a7-cabc044948d0,"Richards, Park: MusicID Top 200 (2000-2020)"
+61,The Chainsmokers feat. Daya ,Don't Let Me Down ,2016,|6-|||. 4 . . |,|G#m|||. EM . . |,$b,,minor-major Plateau,fd881e93-c199-4c86-81a7-cabc044948d0,"Richards, Park: MusicID Top 200 (2000-2020)"
+339,Akon ,Don't Matter ,2007,| 1 | 5 | 6- | 4 |,|BbM|FM|Gm|EbM,$a,,Axis-C,49017150-8a14-45f9-b3a0-038005c485f4,Richards
+312,Rihanna,Don't Stop The Music,2008,|4|||| 6-||||,|DM|||| F#m||||,"$a, $Vr, $PCh",,Major-minor Plateau,b7c8631c-6544-32c8-9ef3-529b464602a1, Park: MusicID Top 200 (2000-2020)
+389,Avril Lavigne ,Don't Tell Me ,2004,|2-||5||,|F#m||BM||,$b_cad,,Dorian Shuttle,bde40ccd-6250-342c-9c5f-0c3c6c426265,Richards
+389,Avril Lavigne ,Don't Tell Me ,2004,|4||5||,|AM||BM||,$b_cad_2,,Plateau Shuttle,bde40ccd-6250-342c-9c5f-0c3c6c426265,Richards
+289,3OH!3,Don't Trust Me ,2009,| 6- | 4 | 1 | 5 |,|Gm|EbM|BbM|FM|,"$b, $ending",,Axis-A,97ff4bc9-12e5-428f-9964-2db7209c8db3,Richards
+291,Jay Sean feat. Lil Wayne ,Down ,2009,|4|1|5|6-|,|GM|DM|AM|BM|,$a_sub,,Axis-F,cdc4e3ff-bbc4-3ece-814c-598effa76369,Richards
+199,Train ,Drive By ,2012,| 6- || 4|| 1 || 5 ||,|C#m||AM||EM||BM||,"$a, $link",,Axis-A,ad4f4d27-d580-4df6-ad9e-332dd3992a83,Richards
+199,Train ,Drive By ,2012,|2-||4||6-||5||,|F#m||AM||C#m||BM||,$b,,Get Lucky-d,ad4f4d27-d580-4df6-ad9e-332dd3992a83,Richards
+200,Luke Bryan ,Drunk on You ,2012,|4| . 1 . . |5| . 6- . . |,|DM| . AM . . |EM| . F#m . . |,$a,,Axis-F,4c7358f3-346a-469a-bbcb-192c061b4e68,Richards
+200,Luke Bryan ,Drunk on You ,2012,|4| . 1 . . |5||,|DM| . AM . . |EM||,"$a_cad, $link",,Closed Double Plagal,4c7358f3-346a-469a-bbcb-192c061b4e68,Richards
+200,Luke Bryan ,Drunk on You ,2012,|4|1|5|6-|,|DM|AM|EM|F#m|,$aa,,Axis-F,4c7358f3-346a-469a-bbcb-192c061b4e68,Richards
+200,Luke Bryan ,Drunk on You ,2012,|4|1|5||,|DM|AM|EM||,$aa_cad,,Closed Double Plagal,4c7358f3-346a-469a-bbcb-192c061b4e68,Richards
+200,Luke Bryan ,Drunk on You ,2012,|4|5|,|DM|EM|,$aa_turnaround,,Plateau Shuttle,4c7358f3-346a-469a-bbcb-192c061b4e68,Richards
+77,The Weeknd,Earned It,2015,|2-||||6-||||,|Gm||||Dm||||,"$a, $In, $Vr, $link",,Dorian-Aeolian shuffle,eb077171-ed76-43fb-ae6a-bbb0e4adbbdd,Peres
+264,Sean Kingston and Justin Bieber ,Eenie Meenie ,2010,| 6- || 4 || 1 || 5 ||,|Bm||GM||DM||AM||,$a,,Axis-A,a019762a-cad4-4266-8f5c-3eb205b17c22,Richards
+79,Sia,Elastic Heart,2015,| 4 || 1 || 5 || 6- ||,|DM||AM||EM||F#m||,"$a, $In",,Axis-F,19d264df-da69-4a70-8778-2f55ff5a9f4c,"Peres, Richards"
+340,The Red Jumpsuit Apparatus ,Face Down ,2007,| 6- || 4 || 1 || 5 ||,|G#m||EM||BM||F#m||,"$a, $In, $Vr, $link, outro",,Axis-A,855eaee6-daa0-43b0-8119-cdb119ac6b99,Richards
+313,Secondhand Serenade ,Fall for You ,2008,| 6- | 4 | 1 | 5 |,|Am|FM|CM|GM|,"$a, $link",,Axis-A,1b70ff18-7763-49b9-9a58-4ac8d8c9a29e,Richards
+313,Secondhand Serenade ,Fall for You ,2008,|4 5 |,|FM GM|,$turnaround,,Plateau Shuttle,1b70ff18-7763-49b9-9a58-4ac8d8c9a29e,Richards
+313,Secondhand Serenade ,Fall for You ,2008,| 1 | 6- | 4 |5|,|CM|Am|FM|GM|,$b,,Doo-wop,1b70ff18-7763-49b9-9a58-4ac8d8c9a29e,Richards
+313,Secondhand Serenade ,Fall for You ,2008,| 6-  4 | 1  5 |,|Am FM|CM GM|,$c,,Axis-A,1b70ff18-7763-49b9-9a58-4ac8d8c9a29e,Richards
+353,Daughtry ,Feels Like Tonight ,2006,| 1 | 5 | 6- | 4 |,|F#M|C#M|D#m|BM|,$b,,Axis-C,3b8158dd-46c0-42fd-a246-69102861f457,Richards
+201,Katy Perry ,Firework ,2012,|6-||||4||||1||||5||||,|F#m||||DM||||AM||||EM||||,$bridge,,Axis-A,49e950aa-0acb-339e-81c2-5d30bbedcedd,Richards
+80,Rachel Platten ,Fight Song ,2015,| 1 | 5 | 6- | 4 |,|GM|DM|Em|CM|,$c,,Axis-C,710162e4-f881-43ca-b8d7-b95437bc7ba8,Richards
+80,Rachel Platten ,Fight Song ,2015,|6- ||4||1||5||,|Em||CM||GM||DM||,$d,,Axis-A,710162e4-f881-43ca-b8d7-b95437bc7ba8,Richards
+80,Rachel Platten ,Fight Song ,2015,|6- ||4||1||5||||,,"$d_turnaround, $PostCh",,Axis-A,710162e4-f881-43ca-b8d7-b95437bc7ba8,Richards
+80,Rachel Platten ,Fight Song ,2015,|1||||6-|4|5||,|GM||||Em|CM|DM||,$bridge,,Doo-wop,710162e4-f881-43ca-b8d7-b95437bc7ba8,Richards
+80,Rachel Platten ,Fight Song ,2015,|6-||4||,|Em||CM||,$ending,,minor-major Plateau,710162e4-f881-43ca-b8d7-b95437bc7ba8,Richards
+154,Florida Georgia Line feat. Nelly ,Cruise ,2013,| 1 | 5 | 6- | 4 |,|BM|F#M|G#m|EM|,"$In_hook, $In_instr, $a, $link",,Axis-C,70de9f22-c001-43c8-96ba-60a4d937a63a,Richards
+154,Florida Georgia Line feat. Nelly ,Cruise ,2013,| 1 | 5 | 6- | 4 |||,|BM|F#M|G#m|EM|||,$a_turnaround,,Axis-C,70de9f22-c001-43c8-96ba-60a4d937a63a,Richards
+202,Jason Aldean ,Fly Over States ,2012,| 6- || 4 || 1 || 5 ||||,|Em||CM||GM||DM||||,$ending,,Axis-A,6b5cf31a-09f5-465b-bc41-4199483b172e,Richards
+493,Jewel ,Foolish Games ,1997,| 6- || 4 || 1 || 5 ||,|Em||CM||GM||DM||,"$a, $In, $link_long, $ending",,Axis-A,92d68aa9-64e0-3a10-b90d-d08015403b92,Richards
+493,Jewel ,Foolish Games ,1997,| 6- || 4 || ,|Em||CM||,$link,,minor-major Plateau,92d68aa9-64e0-3a10-b90d-d08015403b92,Richards
+226,The Script ,For the First Time ,2011,|1||||5||||6-||||4||||,|AM||||EM||||F#m||||DM||||,"$a, $link, $Vr, $DCh",,Axis-C,ac48afc8-4f89-458c-a62f-94481b477d26,Richards
+226,The Script ,For the First Time ,2011,|6-||4||1||5||,|F#m||DM||AM||EM||,$b,,Axis-A,ac48afc8-4f89-458c-a62f-94481b477d26,Richards
+391,Eamon ,Fuck It (I Don't Want You Back) ,2004,| 1 || 5 || 6- || 4 ||,|EM||BM||C#m||AM||,"$a, $In, $link",,Axis-C,39247d1c-2fab-4556-801f-bc048c9da259,Richards
+227,P!nk ,Fuckin' Perfect ,2011,|1||5||6-||4||,|GM||DM||Em||CM||,$a,,Axis-C,4f0d2236-ca6c-4ca5-bdf4-9321140373fc,Richards
+159,"ASAP Rocky feat. Drake, 2 Chainz, and Kendrick Lamar",Fuckin' Problems ,2013,|6-||4||1||5||,|Bm||GM||DM||AM||,"$b, $ending",,Axis-A,ab1afe86-fa65-41ae-a740-05db0539e4c3,Richards
+446,P!nk,Get The Party Started,2001,|6-| . 2-|,|Bm| . Em|,$a,,Aeolian-Dorian shuffle,bb67402e-eb3b-3cb9-a533-3138fbba1e70, Park: MusicID Top 200 (2000-2020)
+161,Florida Georgia Line ,Get Your Shine On ,2013,| 4 . . 1 || 5 . .  6- ||,|FM . . CM||GM . . Am||,$a,,Axis-F,ccd3d867-bdb3-4155-bc58-c764d67628ee,Richards
+83,Little Big Town ,Girl Crush ,2015,| 6- || 4 || 1 || 5 ||,|Am||FM||CM||GM||,$b,,Axis-A,be963eb9-5d88-4589-be57-fa77fcdc10c0,Richards
+83,Little Big Town ,Girl Crush ,2015,| 6- | 4 | 1 | 5 |,|Am|FM|CM|GM|,$b_short,,Axis-A,be963eb9-5d88-4589-be57-fa77fcdc10c0,Richards
+26,Maroon 5 & Cardi B,Girls Like You,2018,| 1 | 5 | 6- | 4 |,|CM|GM|Am|FM|,"$a, $link, outro",,Axis-C,c4670181-ad3d-4319-b418-8e8907a1bfb0, Park: MusicID Top 200 (2000-2020)
+341,Avril Lavigne ,Girlfriend ,2007,| 1 || 5 || 6- || 4 ||,|DM||AM||Bm||GM||,$b,,Axis-C,1ee83047-d5b5-3c0f-81f2-977c6b7c269c,Richards
+341,Avril Lavigne ,Girlfriend ,2007,| 1  5 | 6-  4 |,|DM AM|Bm GM|,$b_fast,,Axis-C,1ee83047-d5b5-3c0f-81f2-977c6b7c269c,Richards
+229,"Pitbull feat. NeYo, Afrojack, and Nayer ",Give Me Everything ,2011,|6-| . 4 . . |1 | . 5 . . |,|Cm| . AbM . . |EbM | . BbM . . |,$b,,Axis-A,244e0067-7a2f-407f-a5d0-c525c18e3218,Richards
+230,Blake Shelton ,God Gave Me You ,2011,| 6- || 4 || 1 || 5 ||,|Bm||GM||DM||AM||,$b,,Axis-A,e05bde75-2286-4af0-b446-0a13472ac9d6,Richards
+165,Phillip Phillips ,"Gone, Gone, Gone ",2013,|1||||5||||6-||||4||||,|GM||||DM||||Em||||CM||||,"$a, $Vr",,Axis-C,9e24e6f3-a542-3fe2-90f0-8e87012f2618,Richards
+165,Phillip Phillips ,"Gone, Gone, Gone ",2013,|4|1|5||,|CM|GM|DM||,$b,,Closed Double Plagal,9e24e6f3-a542-3fe2-90f0-8e87012f2618,Richards
+170,Daft Punk,Instant Crush,2013,|4||2-||6-||5||,|GbM||Ebm||BbM||AbM||,"$a, $In",,Lydian-Aeolian Four Chords,2d3968b0-cdfb-48ab-96ef-79f0c1ce018e,Jinny Park: daft punk corpus
+170,Daft Punk,Instant Crush,2013,|6-| 4| 2-| 5|,|Bbm| GbM| Ebm| AbM|,"$b, $fadeout",,Aeolian-Dorian Four Chords,2d3968b0-cdfb-48ab-96ef-79f0c1ce018e,Jinny Park: daft punk corpus
+175,Daft Punk,Lose Yourself to Dance,2013,|2-||4||6-||5||,|Ebm||GbM||Bbm||AbM||,"$a, $Vr",,Get Lucky-d,ce5b67ec-d4df-4850-aaf7-81464dd49814,"Peres, Jinny Park: daft punk corpus"
+176,Daft Punk,Motherboard,2013,|4|2-|6-|5|,|CM|Am|Em|DM|,$a,,Lydian-Aeolian Four Chords,525d6faf-47dd-4ec1-8468-19b235edc320,Jinny Park: daft punk corpus
+183,Daft Punk,Touch,2013,|2-|4|6-|5|,|Bm| DM| F#m| Em|,$a,,Get Lucky-d,91d28a44-98b0-49cc-baa5-1895c6bffe63,Jinny Park: daft punk corpus
+188,Daft Punk,Within,2013,|6-| 4| 2-| 5|,|Bbm| GbM| Ebm| AbM|,"$a, $outro",,Aeolian-Dorian Four Chords,d9326c3e-bf51-4532-b8ff-8714752a0cf4,Jinny Park: daft punk corpus
+242,Bon Iver,Perth,2011,|4|5|6-||,|AbM|BbM|Cm||,$a,,Plateau: open passing loop,ae903bf2-be5e-42e6-b547-4563c9c7aa6d,Duinker
+280,Jónsi,Tornado,2010,|4||6-||,|Fm||AM||,$a,,Major-minor Plateau,7c28f37d-f5b8-3ad0-a3e5-6b02792592f9,Duinker
+280,Jónsi,Tornado,2010,|2-|6-|1|5|,|Dm|Am|CM|GM|,$d,,minor and major one-fives,7c28f37d-f5b8-3ad0-a3e5-6b02792592f9,Duinker
+52,The Chainsmokers & Coldplay,Something Just Like This,2017,|4|. 5 . . |6-| . 5 . . |,|GM|. AM . . |Bm| . AM . . |,$a,,Plateau: circular passing loop,9c54805f-5b61-4d91-b9f2-b437c96bf05e,"Duinker, Park: MusicID top 200 (2000-2020)"
+53,Ásgeir,Stardust,2017,|4 . 5|6- . 1|,|DbM . EbM|Fm . AbM|,$a,,Plateau: ascending passing loop,153477ae-1392-4746-90f7-7524c486471b,Duinker
+92,Astrid S,Hurts So Good,2015,|2- . . 6-||1 . . 5||,|Cm . . Gm||BbM . . FM||$b,,,minor and major one-fives,d3c24827-86b2-44f1-a942-5356bfcb8e24,Duinker
+93,Justin Bieber,I'll Show You,2015,|4|. 5|6-|. 1|,|FM|. GM|Am|. CM|,$c,,Plateau: ascending passing loop,d0466c85-ad32-4a26-b72f-442d7f708a92,Duinker
+93,Justin Bieber,I'll Show You,2015,|4|. 5|6-|. 5|,|FM|. GM|Am|. GM|,$c_cad,,Plateau: circular passing loop,d0466c85-ad32-4a26-b72f-442d7f708a92,Duinker
+34,Young Thug & Lil' Uzi Vert,It's a Slime,2018,|4 . . 5| . 6- . . |,|#FM . . #GM| . #Am . . |,$a,,Plateau: open passing loop,ffe97212-aab7-47d2-a7e1-581d4b3c11dd,Duinker
+102,Taylor Swift,Out of the Woods,2015,| 1 || 5 || 6- || 4 ||,|CM||GM||Am||FM||,"$a, $Ch",,Axis-C,1e459e1f-65f0-4e88-94a5-e7c530b11dc9,Peres
+137,Ariana Grande featuring Iggy Azalea,Problem,2014,|4 . . 5|6-|,|FM . . GM|Am|,$b,,Plateau: open passing loop,2078d63c-69ad-4696-8e04-82ef6735a669,Peres
+179,Lorde,Royals,2013,|5||4|1|,|DM||CM|GM|,$b,,Double Plagal,b44e94f0-c5c7-4805-a593-c7d9fa696d71,Peres
+135,Ed Sheeran ,Photograph ,2014,| 6- | 4 | 1 | 5 |,|C#m|AM|EM|BM|,$b,,Axis-A,0f7b4fc9-1061-4e9b-bf8c-5e0726e3ad44,Richards
+135,Ed Sheeran ,Photograph ,2014,|1||5||6-||4||,|EM||BM||C#m||AM||,"$c, $ending",,Axis-C,0f7b4fc9-1061-4e9b-bf8c-5e0726e3ad44,Richards
+135,Ed Sheeran ,Photograph ,2014,| 6- || 4 || 1 || 5 ||,|C#m||AM||EM||BM||,$bridge,,Axis-A,0f7b4fc9-1061-4e9b-bf8c-5e0726e3ad44,Richards
