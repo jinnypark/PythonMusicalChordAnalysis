@@ -13,7 +13,7 @@ from collections import Counter
 
 # read-in raw chord data to process
 
-path = "/Users/jinnypark/OneDrive - Indiana University/dissertation/SMT2021/Testing/JP_meta_corpus_demo_aggregate.csv"
+path = "~/JP_meta_corpus_demo_aggregate.csv"
 eachSong = []
 # index = ""  # [0]
 # year = ""  # [1]
@@ -140,24 +140,7 @@ with open(path2) as data_file:
         else:
             eachEntry[row[0]] = [row[1],row[2],row[3],row[4],row[5],row[6],row[7]]
 metadata = []
-# print(eachEntry['30'])
-# => ['2018', 'Lady Gaga', 'Heal Me', 'af3ef4ef-b7c7-4bca-ad19-91e3615f18a5', 'Duinker, Jinny Park: MusicID top 100 (2000-2020)', '', '$In $Vr*2 $PCh $drop $Ch*2 $Vr*2 $PostCh $drop $Vr $PCh $drop $Ch*4 $PostCh $drop $bridge*2 $Ch*4 $PostCh $drop']
-# print(eachEntry['49'])
-#
-# output_name3 = "chord_loop_unidentified.csv"
-# with open(output_name3, 'w') as csvfile1:
-#     fieldnames = ['Index', 'Artist', 'title', 'year', 'data', 'Absolute Chords', 'section', 'formtype', 'looptype',
-#                   'MBID', 'source']
-#     writer = csv.writer(csvfile1)
-#     writer.writerow(fieldnames)
-#     # a = 0
-#     for song in leftover:
-#         data = [song[0], eachEntry[song[0]][1], eachEntry[song[0]][2], eachEntry[song[0]][0], song[4], song[5], song[6], song[7], song[8],
-#                 eachEntry[song[0]][3], eachEntry[song[0]][4]]
-#         writer.writerow(data)
-#         # a = a + 1
-# #
-# output_name = "chord_loop_identified-All.csv"
+
 output_name = "aggregate_data.csv"
 # #output_name = "chord_loop_identified-Axis.csv"
 # #output_name = "chord_loop_identified-Plateau.csv"
@@ -171,15 +154,3 @@ with open(output_name, 'w') as csvfile1:
         data = [song[0], eachEntry[song[0]][1], eachEntry[song[0]][2], eachEntry[song[0]][0], song[4], song[5], song[6], song[7], song[8],
                 eachEntry[song[0]][3], eachEntry[song[0]][4]]
         writer.writerow(data)
-        # a = a + 1
-
-#output_name2 = "chord_loop_identified-Axis-list.csv"
-#output_name2 = "chord_loop_identified-Axis-list.csv"
-#output_name2 = "chord_loop_identified-Plateau-list.csv"
-# with open(output_name2, 'w') as csvfile2:
-#     fieldnames = ['Index', 'Artist', 'title', 'Year', 'looptype', 'MBID', 'source']
-#     writer = csv.writer(csvfile2)
-#     writer.writerow(fieldnames)
-#     for song in newData:
-#         data = [song[0], eachEntry[song[0]][1], eachEntry[song[0]][2], eachEntry[song[0]][0], song[8], eachEntry[song[0]][3], eachEntry[song[0]][4]]
-#         writer.writerow(data)
