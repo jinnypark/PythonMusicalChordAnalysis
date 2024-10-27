@@ -108,10 +108,6 @@ for song in eachSong:
     thisSong=song[0:8]
     thisSong.append(loopType)
     newData.append(thisSong)
-    # if loopType != "":
-    #     thisSong = song[0:8]
-    #     thisSong.append(loopType)
-    #     newData.append(thisSong)
 
 ## count most common chord loops
 
@@ -120,7 +116,7 @@ sorted_counts = Counts.most_common()
 print(sorted_counts)
 
 ## Import Metadata of each song, MBID, etc. accessible by index.
-path2 = "/Users/jinnypark/OneDrive - Indiana University/dissertation/SMT2021/Testing/JP_metadata.csv"
+path2 = "~/Testing/JP_metadata.csv"
 eachEntry = {}
 # index = ""  # [0]
 # year = ""  # [1]
